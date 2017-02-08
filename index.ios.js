@@ -12,6 +12,8 @@ import {
   View
 } from 'react-native';
 //组件引入
+
+var my = '苏打水';
 var Zjry = require("./fenkuai/zhugan");
 export default class doubanzuoyeRN extends Component {
   render() {
