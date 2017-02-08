@@ -12,7 +12,9 @@ import {
   View
 } from 'react-native';
 //组件引入
+
 var my = '巢成雏长大';
+
 var Zjry = require("./fenkuai/zhugan");
 export default class doubanzuoyeRN extends Component {
   render() {
